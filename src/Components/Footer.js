@@ -12,7 +12,7 @@ function Footer() {
                        <div className="logo-items">
                         <img src={logo} alt="" />
                             <p>
-                                Copyright @2021 LoremIpsum. <br />
+                                Copyright @2021 Musa Mdaka. <br />
                                 All rights reserved.
                             </p>
                        </div>
